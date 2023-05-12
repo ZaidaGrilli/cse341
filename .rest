@@ -42,7 +42,7 @@ GET https://cse341-2023.onrender.com/contacts
 
 
 ### Get contact by id
-GET https://cse341-2023.onrender.com/contacts/622023f642f9ab4cd6e060b3
+GET https://cse341-2023.onrender.com/contacts/645d8f569778c6fcbc7c3755
 
 
 ### Create contact
@@ -61,7 +61,7 @@ content-type: application/json
 
 
 ### PUT contact
-PUT https://cse341-2023.onrender.com/contacts/645d8efd9778c6fcbc7c3754 HTTP/1.1
+PUT https://cse341-2023.onrender.com/contacts/645d8f569778c6fcbc7c3755 HTTP/1.1
 content-type: application/json
 
 {
@@ -72,4 +72,4 @@ content-type: application/json
     "birthday":"12/12/20"
 }
 ### DELETE contact
-DELETE https://cse341-2023.onrender.com/contacts/645d8efd9778c6fcbc7c3754 HTTP/1.1
+DELETE https://cse341-2023.onrender.com/contacts/645d8f569778c6fcbc7c3755 HTTP/1.1
